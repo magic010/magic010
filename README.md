@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mohamed</h1>
-<h3 align="center">A passionate fullstack web developer from Egypt</h3>
+<h3 align="center">A Flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magic010&label=Profile%20views&color=0e75b6&style=flat" alt="magic010" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/valoranthighl10" target="blank"><img src="https://img.shields.io/twitter/follow/valoranthighl10?logo=twitter&style=for-the-badge" alt="valoranthighl10" /></a> </p>
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **SWIFT**
 
-- 💬 Ask me about **react, javascript, web development**
+- 💬 Ask me about **flutter, dart, react, javascript, web development**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
